@@ -48,7 +48,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <h3 align="center"> Home </h3>
 
-<p align="center"> A página Home do projeto! Inicia com imagens e informações para guiar o usuário em uma experiência agradável! 🐧 </p>
+<p align="center"> A página Home do projeto! 💿 </p>
 
 
 ![Screenshot](/images/home.png)
@@ -65,7 +65,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h3 align="center">Caso você queira ir para a próxima música: </h3>
 
 
-![Screenshot](/images/five.jpeg)
+![Screenshot](/images/two.jpeg)
 
 <h3 align="center">A próxima música: </h3>
 
