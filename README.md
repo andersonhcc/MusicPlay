@@ -54,5 +54,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h3 align="center">Após reproduzir a música, a barra de duração é acompanhada! </h3>
 
 ![Screenshot](/images/one.jpeg)
-
-
