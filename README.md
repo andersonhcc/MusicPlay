@@ -1,4 +1,4 @@
-<h1 align="center"> 🐧 { Music Play }  🐧 </h1>
+<h1 align="center"> 🎵 { Music Play } 🎵 </h1>
 <p align="center"> Aplicação básica de um reprodutor de música!</p>
 
 <p align="center">
@@ -24,6 +24,8 @@
 - [x] Estilização por meio do CSS3;
 - [x] Estrutura básica HTML;
 - [x] Opções como: avançar música, retornar música, pausar e inciar música;
+- [x] Descrições da música como: Banda e duração;
+- [x] Imagem é alterada quando avança a música;
 
 
 ### 🛠 Tecnologias
@@ -54,3 +56,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h3 align="center">Após reproduzir a música, a barra de duração é acompanhada! </h3>
 
 ![Screenshot](/images/one.jpeg)
+
+<h3 align="center">Opção de pausar: </h3>
+
+![Screenshot](/images/three.jpeg)
+
+
+<h3 align="center">Caso você queira ir para a próxima música: </h3>
+
+
+![Screenshot](/images/five.jpeg)
+
+<h3 align="center">A próxima música: </h3>
+
+![Screenshot](/images/five.jpeg)
